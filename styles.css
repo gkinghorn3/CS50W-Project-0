@@ -1,0 +1,10 @@
+#main-container {
+    display: flex;
+    flex-direction: column;
+    padding:    30%;
+
+}
+
+#google-logo {
+    width: 15rem; 
+}
