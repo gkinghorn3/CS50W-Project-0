@@ -1,5 +1,24 @@
+#navbar {
+    display: flex;
+    justify-content: right;
+    padding: 1rem 3rem;
+}
+
+#navbar a {
+    margin-left: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: black;
+    
+}
+
+#navbar a:hover {
+    color:darkgray;
+}
+
 #main-container {
-    margin-top: -15rem;
+    margin-top: -18rem;
     display: flex;
     flex-direction: column;
     padding:    30%;
